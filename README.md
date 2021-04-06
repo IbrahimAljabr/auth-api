@@ -2,9 +2,9 @@
 
 Class401-Lab03
 
-[Heroku](https://bearer-authorization-7.herokuapp.com)
+[Heroku](https://auth-api-8.herokuapp.com)
 
-[Pull Request](https://github.com/IbrahimAljabr/bearer-auth/pull/1)
+[Pull Request](https://github.com/IbrahimAljabr/auth-api/pull/1)
 
 **UML Diagram**
 
